@@ -51,14 +51,14 @@ for(let i=0;i<logos.length;i++) {
     }*/
 
     toAdd +=
-        '<div class="col-md-3 col-sm-4 col-xs-4" style="margin-bottom: 50px;">' +
+        '<div class="col-md-3 col-sm-6 col-xs-12" style="margin-bottom: 50px;">' +
         '<div class="flip-card">' +
         '<div class="flip-card-inner">' +
         '<div class="flip-card-front">' +
         '<img src="assets/images/'+logos[i]+'" alt="Brand Logo" style="width: auto">' +
         '</div>' +
         '<div class="flip-card-back">' +
-        '<h1><a href=\'+links[i]+\'>Visiter le Stand</a></h1>' +
+        '<h1><a href='+links[i]+'>Visiter le Stand</a></h1>' +
         '</div>' +
         '</div></div></div>';
 
