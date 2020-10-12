@@ -50,7 +50,7 @@ var links = ["https://meet.google.com/yze-tgbh-oow",
     "https://meet.google.com/wad-nzjn-qph",
     "https://meet.google.com/aae-vvhd-zwt",
     "https://meet.google.com/eko-woku-oko",
-    "https://www.facebook.com/2245544032383548/posts/2839686602969285/"
+    "https://www.facebook.com/2245544032383548/posts/2839686602969285"
 ];
 
 var toAdd = "";
