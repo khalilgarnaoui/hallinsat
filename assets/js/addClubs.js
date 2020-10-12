@@ -23,7 +23,7 @@ var logos = ["theatro2.png",
 ];
 var links = ["https://meet.google.com/yze-tgbh-oow",
     "https://meet.google.com/qqm-cuqz-hwp",
-    "https://meet.google.com/wxn-szmg-yyo",
+    "JEI/index.html",
     "https://meet.google.com/ocy-mspy-jtc",
     "https://meet.google.com/xqg-nsoc-geg",
     "https://meet.google.com/tcb-qhnw-ixs",
