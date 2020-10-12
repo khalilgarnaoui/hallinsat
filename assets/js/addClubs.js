@@ -19,7 +19,9 @@ var logos = ["theatro2.png",
     "acm2.png",
     "jci2.png",
     "amitie2.png",
-    "dsc2.png"
+    "dsc2.png",
+    "cim2.png",
+    "ieee2.png"
 ];
 var links = ["https://meet.google.com/yze-tgbh-oow",
     "https://meet.google.com/qqm-cuqz-hwp",
@@ -40,7 +42,9 @@ var links = ["https://meet.google.com/yze-tgbh-oow",
     "https://sites.google.com/view/insat-acm/home",
     "https://meet.google.com/vdz-gdzd-vfj",
     "https://meet.google.com/vkf-urty-fsv",
-    "https://meet.google.com/sue-cxbh-mub"
+    "https://meet.google.com/sue-cxbh-mub",
+    "https://drive.google.com/file/d/1ldZPrXjjUEwNc8iLvV2toR1VdHfUyBu1/view",
+    "https://meet.google.com/wad-nzjn-qph"
 ];
 
 var toAdd = "";
