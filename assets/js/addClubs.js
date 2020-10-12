@@ -21,7 +21,9 @@ var logos = ["theatro2.png",
     "amitie2.png",
     "dsc2.png",
     "cim2.png",
-    "ieee2.png"
+    "ieee2.png",
+    "dataoverflow2.png",
+    "spark2.png"
 ];
 var links = ["https://meet.google.com/yze-tgbh-oow",
     "https://meet.google.com/qqm-cuqz-hwp",
@@ -44,7 +46,9 @@ var links = ["https://meet.google.com/yze-tgbh-oow",
     "https://meet.google.com/vkf-urty-fsv",
     "https://meet.google.com/sue-cxbh-mub",
     "https://drive.google.com/file/d/1ldZPrXjjUEwNc8iLvV2toR1VdHfUyBu1/view",
-    "https://meet.google.com/wad-nzjn-qph"
+    "https://meet.google.com/wad-nzjn-qph",
+    "https://meet.google.com/aae-vvhd-zwt",
+    "https://meet.google.com/eko-woku-oko"
 ];
 
 var toAdd = "";
